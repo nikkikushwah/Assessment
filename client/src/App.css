@@ -1,0 +1,28 @@
+.App {
+    padding: 40px;
+    width: 60%;
+    margin-left: 20%;
+
+}
+.center{
+    margin-left: 35%;
+}
+table {
+    width: 60%;
+    margin-left: 20%;
+    border-collapse: collapse;
+    margin-bottom: 5%;
+  }
+
+  th, td {
+    border: 1px solid rgb(196, 195, 195);
+    padding: 8px;
+    text-align: center;
+  }
+
+body {
+    background-image: url('../public/img/diagram-graph-growth-stock-market-profits-economic-recovery-stock-business-chart_546559-1610.avif');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+  }
